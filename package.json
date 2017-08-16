@@ -1,0 +1,37 @@
+{
+  "name": "garden",
+  "version": "1.0.0",
+  "description": "frontend for bl4ck pr15m team",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bl4ckpr15m/garden.git"
+  },
+  "keywords": [
+    "frontend",
+    "angular",
+    "node"
+  ],
+  "author": "Jorge Chato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bl4ckpr15m/garden/issues"
+  },
+  "homepage": "https://github.com/bl4ckpr15m/garden#readme",
+  "dependencies": {
+    "@uirouter/angularjs": "^1.0.5",
+    "angular": "^1.6.5",
+    "angular-animate": "^1.6.5",
+    "angular-route": "^1.6.5",
+    "angular-sanitize": "^1.6.5",
+    "animate.css": "^3.5.2",
+    "compression": "^1.7.0",
+    "express": "^4.15.4"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
